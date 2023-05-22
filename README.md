@@ -1,6 +1,5 @@
 # HAM
-This is the code for the paper "Learning Point-Language Hierarchical Alignment
-for 3D Visual Grounding". 
+This is the code for the paper "HAM: Hierarchical Attention Model with High Performance for 3D Visual Grounding". 
 
 Our method is the 1st method on the ScanRefer benchmark (2022/10 - 2023/3) and is the winner of the ECCV 2022 2nd Workshop on Language for 3D Scenes.
 
